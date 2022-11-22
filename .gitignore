@@ -2,8 +2,11 @@
 
 # dependencies
 /node_modules
+/mysuperblog/node_modules
 /.pnp
 .pnp.js
+
+.env
 
 # testing
 /coverage
